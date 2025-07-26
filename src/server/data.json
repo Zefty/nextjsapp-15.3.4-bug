@@ -1,1 +1,12 @@
-[{"id":1,"title":"Post 1","content":"This is the first post"},{"id":2,"title":"Post 2","content":"This is the second post"},{"id":3,"title":"New Post","content":"This is a new post"},{"id":4,"title":"New Post","content":"This is a new post"},{"id":5,"title":"New Post","content":"This is a new post"},{"id":6,"title":"New Post","content":"This is a new post"},{"id":7,"title":"New Post","content":"This is a new post"},{"id":8,"title":"New Post","content":"This is a new post"},{"id":9,"title":"New Post","content":"This is a new post"},{"id":10,"title":"New Post","content":"This is a new post"},{"id":11,"title":"New Post","content":"This is a new post"},{"id":12,"title":"New Post","content":"This is a new post"},{"id":13,"title":"New Post","content":"This is a new post"},{"id":14,"title":"New Post","content":"This is a new post"},{"id":15,"title":"New Post","content":"This is a new post"},{"id":16,"title":"New Post","content":"This is a new post"},{"id":17,"title":"New Post","content":"This is a new post"},{"id":18,"title":"New Post","content":"This is a new post"},{"id":19,"title":"New Post","content":"This is a new post"},{"id":20,"title":"New Post","content":"This is a new post"},{"id":21,"title":"New Post","content":"This is a new post"},{"id":22,"title":"New Post","content":"This is a new post"},{"id":23,"title":"New Post","content":"This is a new post"},{"id":24,"title":"New Post","content":"This is a new post"},{"id":25,"title":"New Post","content":"This is a new post"},{"id":26,"title":"New Post","content":"This is a new post"},{"id":27,"title":"New Post","content":"This is a new post"},{"id":28,"title":"New Post","content":"This is a new post"}]
+[
+    {
+        "id": 1,
+        "title": "Post 1",
+        "content": "This is the first post"
+    },
+    {
+        "id": 2,
+        "title": "Post 2",
+        "content": "This is the second post"
+    }
+]
